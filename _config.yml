@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Bowen Wang / Undergraduate Researcher"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Bowen Wang"
+description              : &description "No Game No Life"
+url                      : https://bowenlanqiao.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bowenlanqiao/bowenlanqiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Bowen Wang"
+  pronouns         : "he/him"  
+  bio              : "Fourth year undergraduate student major in neuroscience and cognitive study"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "VANDERBILT UNIVERSITY"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bowen.wang.1@vanderbilt.edu" 
 
   # Academic websites
   academia         : # URL
